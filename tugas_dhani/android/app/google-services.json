@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "333863448419",
+    "firebase_url": "https://tugas-dhani-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-dhani",
+    "storage_bucket": "tugas-dhani.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333863448419:android:eb1bf141bce06c8acf2d56",
+        "android_client_info": {
+          "package_name": "com.example.tugas_dhani"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgi2beALmt_63Yr2BEe1aOy_lDnofz8d8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
